@@ -1,0 +1,1 @@
+I uploaded a script file called poly_script which generates an increasing number of interpolation nodes and times them in order to plot the time it takes for each function call to complete against n.
